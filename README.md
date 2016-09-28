@@ -7,10 +7,12 @@ Current binaries are mostly based on
 
 and some sources are updated along with TeX Live svn
 
-- texk/kpathsea (r41795)
-- texk/web2c/ptexdir (r42040)
-- texk/web2c/eptexdir (r42041)
-- texk/tex4htk (r42110)
+- ktx/texk/kpathsea (r41795)
+- ktx/texk/web2c/ptexdir (r42040)
+- ktx/texk/web2c/eptexdir (r42041)
+- ktx/texk/tex4htk (r42110)
+- xtx/texk/kpathsea (r41795)
+- xtx/texk/web2c/xetexdir (r42142)
 
 Only a small subset of binaries are available, since these are the ones
 which I managed to build by myself using Visual Studio 2013. The even
