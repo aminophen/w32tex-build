@@ -14,6 +14,7 @@ and some sources are updated along with TeX Live svn
 - xtx/texk/kpathsea (r41795)
 - xtx/texk/web2c/xetexdir (r42142)
 - ktx/texk/mendexk (r42167)
+- xtx/texk/upmendex (r41572)
 
 Only a small subset of binaries are available, since these are the ones
 which I managed to build by myself using Visual Studio 2013. The even
