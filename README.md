@@ -12,7 +12,7 @@ and some sources are updated along with TeX Live svn
 - ktx/texk/web2c/eptexdir (r42041)
 - ktx/texk/tex4htk (r42110)
 - xtx/texk/kpathsea (r41795)
-- xtx/texk/web2c/xetexdir (r42142)
+- xtx/texk/web2c/xetexdir (r42194)
 - ktx/texk/mendexk (r42167)
 - xtx/texk/upmendex (r41572)
 
