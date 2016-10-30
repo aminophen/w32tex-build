@@ -33,4 +33,13 @@ TeX 関連バイナリを置いておくための場所です。成功したものしか置いていま
 をリネームして保管しておき、代わりにこのリポジトリから取得したファイルを
 置いてください。それ以上の説明はあえて控えます。
 
+Visual Studio 2013 でビルドしているため、Microsoft が提供する
+[「Visual Studio 2013 の Visual C++ 再頒布可能パッケージ」](https://www.microsoft.com/ja-jp/download/details.aspx?id=40784)
+がインストールされている必要があると思います。おそらく msvcr120.dll が
+あれば十分な気がするので、簡単のため
+
+- http://dl.dropboxusercontent.com/s/z3t81hxc28p9qlk/msvcr120.dll
+
+からダウンロードできるようにしておきます。
+
 Hironobu Yamashita
