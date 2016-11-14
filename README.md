@@ -7,14 +7,21 @@ Current binaries are mostly based on
 
 and some sources are updated along with TeX Live svn
 
-- ktx/texk/kpathsea (r41795)
-- ktx/texk/mendexk (r42167)
+- ktx/texk/kpathsea (r42472)
+- ktx/texk/dvipdfm-x (r42391)
+- ktx/texk/dvipsk (r42461)
+- ktx/texk/mendexk (r42492)
 - ktx/texk/tex4htk (r42110)
+- ktx/texk/web2c (r42506)
+- ktx/texk/web2c/eptexdir (r42506)
+- ktx/texk/web2c/euptexdir (r42506)
+- ktx/texk/web2c/lib (r42506)
+- ktx/texk/web2c/pdftexdir (r42438)
 - ktx/texk/web2c/ptexdir (r42040)
-- ktx/texk/web2c/eptexdir (r42381)
-- ktx/texk/web2c/euptexdir (r42380)
-- xtx/texk/kpathsea (r41795)
-- xtx/texk/upmendex (r41572)
+- xtx/texk/kpathsea (r42472)
+- xtx/texk/upmendex (r42493)
+- xtx/texk/web2c (r42506)
+- xtx/texk/web2c/lib (r42506)
 - xtx/texk/web2c/xetexdir (r42194)
 
 Only a small subset of binaries are available, since these are the ones
