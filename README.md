@@ -7,8 +7,8 @@ Current binaries are mostly based on
 
 and some sources are updated along with TeX Live svn
 
-- ktx/texk/kpathsea (r42715)
-- ktx/texk/dvipdfm-x (r42744)
+- ktx/texk/kpathsea (r42801)
+- ktx/texk/dvipdfm-x (r42803)
 - ktx/texk/dvipsk (r42703)
 - ktx/texk/makejvf (r42724)
 - ktx/texk/mendexk (r42772)
@@ -20,7 +20,7 @@ and some sources are updated along with TeX Live svn
 - ktx/texk/web2c/pdftexdir (r42438)
 - ktx/texk/web2c/ptexdir (r42720)
 - ktx/texk/web2c/uptexdir (r42723)
-- xtx/texk/kpathsea (r42715)
+- xtx/texk/kpathsea (r42801)
 - xtx/texk/upmendex (r42784)
 - xtx/texk/web2c (r42506)
 - xtx/texk/web2c/lib (r42506)
