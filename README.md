@@ -3,7 +3,7 @@
 This repository contains binary files of win32 TeX distribution.
 Current binaries are mostly based on
 
-- w32tex-src.tar.xz (as of 2016-05-13 10:17)
+- w32tex-src.tar.xz (as of 2016-05-13 10:17, r41087)
 
 and some sources are updated along with TeX Live svn
 
@@ -25,6 +25,15 @@ and some sources are updated along with TeX Live svn
 - xtx/texk/web2c (r42506)
 - xtx/texk/web2c/lib (r42506)
 - xtx/texk/web2c/xetexdir (r42194)
+
+Also, some missing sources are retrieved from older archives
+
+- w32tex-src.tar.xz (as of 2014-05-22 00:48, r34185)
+
+and updated along with the upstream
+
+- ktx/utils/bmp2png: bmp2png 1.62
+  from http://cetus.sakura.ne.jp/softlab/b2p-home/index.html
 
 Only a small subset of binaries are available, since these are the ones
 which I managed to build by myself using Visual Studio 2013. The even
