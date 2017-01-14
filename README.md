@@ -43,17 +43,22 @@ No warranty.
 
 ----
 
-ꂍA Visual Studio 2013 łǂɂrhɐ󂵂 win32 ̊TeX ֘AoCi𒵂Ă߂̏ꏊłB󂵂uĂ܊񂌂ŁAp搶̠W32TeX ɔ䂗ăt@CĂ܂B
-̗󋖚Ił̂ŁA헰Ȃق悢Ǝv܂BRۏ؂łB
+これは、私が Visual Studio 2013 環境でどうにかビルドに成功した win32 の
+TeX 関連バイナリを置いておくための場所です。成功したものしか置いていま
+せんので、角藤先生の W32TeX に比べてファイルが欠けています。
+ただの練習目的ですので、常用しないほうがよいと思います。当然無保証です。
 
-µgBĂ݂ꍇ́AW32TeX ⠔eX Live (win32) ̌X̓t@C
-㊃l[ĕۊǂĂAキ肉̃|Wg玦t@C꒵ĂBꈈれ־͂čT܂B
+もし使ってみたい場合は、W32TeX や TeX Live (win32) の元々の同名ファイル
+をリネームして保管しておき、代わりにこのリポジトリから取得したファイルを
+置いてください。それ以上の説明はあえて控えます。
 
-Visual Studio 2013 ŃrhĂ邽߁AMicrosoft 񋟂銛uVisual Studio 2013 ̠Visual C++ ĔЕz\pbP[Wv](https://www.microsoft.com/ja-jp/download/details.aspx?id=40784)
-CXg[ꂄ镋v邆v܂B炭 msvcr120.dll 
-ꂎ\ȋC邌ŁAȒP̂ߊ
+Visual Studio 2013 でビルドしているため、Microsoft が提供する
+[「Visual Studio 2013 の Visual C++ 再頒布可能パッケージ」](https://www.microsoft.com/ja-jp/download/details.aspx?id=40784)
+がインストールされている必要があると思います。おそらく msvcr120.dll が
+あれば十分な気がするので、簡単のため
+
 - http://dl.dropboxusercontent.com/s/z3t81hxc28p9qlk/msvcr120.dll
 
-烟E[hł邦ɂĂ܂B
+からダウンロードできるようにしておきます。
 
 Hironobu Yamashita
