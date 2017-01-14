@@ -16,14 +16,14 @@ and some sources are updated along with TeX Live svn
 - ktx/texk/web2c (r42506)
 - ktx/texk/web2c/eptexdir (r42711)
 - ktx/texk/web2c/euptexdir (r42711)
-- ktx/texk/web2c/lib (r42506)
+- ktx/texk/web2c/lib (r42828)
 - ktx/texk/web2c/pdftexdir (r42438)
 - ktx/texk/web2c/ptexdir (r42720)
-- ktx/texk/web2c/uptexdir (r42723)
+- ktx/texk/web2c/uptexdir (r42954)
 - xtx/texk/kpathsea (r42801)
 - xtx/texk/upmendex (r42784)
 - xtx/texk/web2c (r42506)
-- xtx/texk/web2c/lib (r42506)
+- xtx/texk/web2c/lib (r42828)
 - xtx/texk/web2c/xetexdir (r42194)
 
 Also, some missing sources are retrieved from older archives
@@ -43,22 +43,17 @@ No warranty.
 
 ----
 
-‚±‚ê‚ÍA„‚ª Visual Studio 2013 ŠÂ‹«‚Å‚Ç‚¤‚É‚©ƒrƒ‹ƒh‚É¬Œ÷‚µ‚½ win32 ‚Ì
-TeX ŠÖ˜AƒoƒCƒiƒŠ‚ğ’u‚¢‚Ä‚¨‚­‚½‚ß‚ÌêŠ‚Å‚·B¬Œ÷‚µ‚½‚à‚Ì‚µ‚©’u‚¢‚Ä‚¢‚Ü
-‚¹‚ñ‚Ì‚ÅAŠp“¡æ¶‚Ì W32TeX ‚É”ä‚×‚Äƒtƒ@ƒCƒ‹‚ªŒ‡‚¯‚Ä‚¢‚Ü‚·B
-‚½‚¾‚Ì—ûK–Ú“I‚Å‚·‚Ì‚ÅAí—p‚µ‚È‚¢‚Ù‚¤‚ª‚æ‚¢‚Æv‚¢‚Ü‚·B“–‘R–³•ÛØ‚Å‚·B
+ê‚A Visual Studio 2013 Â‹Å‚Ç‚É‚rhÉó‚µ‚ win32 ÌŠTeX Ö˜AoCiğ’µ‚Ä‚ß‚ÌêŠÅ‚Bó‚µ‚ÂŒuÄ‚ÜŠñ‚Œ‚ÅApæ¶Ì W32TeX É”ä‚—Äƒt@CÄ‚Ü‚B
+Ì—ó‹–šIÅ‚Ì‚ÅAí—°È‚Ù‚æ‚¢ÆvÜ‚BRÛØ‚Å‚B
 
-‚à‚µg‚Á‚Ä‚İ‚½‚¢ê‡‚ÍAW32TeX ‚â TeX Live (win32) ‚ÌŒ³X‚Ì“¯–¼ƒtƒ@ƒCƒ‹
-‚ğƒŠƒl[ƒ€‚µ‚Ä•ÛŠÇ‚µ‚Ä‚¨‚«A‘ã‚í‚è‚É‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚©‚çæ“¾‚µ‚½ƒtƒ@ƒCƒ‹‚ğ
-’u‚¢‚Ä‚­‚¾‚³‚¢B‚»‚êˆÈã‚Ìà–¾‚Í‚ ‚¦‚ÄT‚¦‚Ü‚·B
+ÂµgBÄ‚İ‚ê‡ÍAW32TeX â ”eX Live (win32) ÌŒXÌ“t@C
+ãŠƒl[Ä•ÛŠÇ‚Ä‚Aã‚­è‚‰Ìƒ|Wgç¦t@Cê’µÄ‚Bêˆˆã‚ŒÖ¾Í‚ÄTÜ‚B
 
-Visual Studio 2013 ‚Åƒrƒ‹ƒh‚µ‚Ä‚¢‚é‚½‚ßAMicrosoft ‚ª’ñ‹Ÿ‚·‚é
-[uVisual Studio 2013 ‚Ì Visual C++ Ä”Ğ•z‰Â”\ƒpƒbƒP[ƒWv](https://www.microsoft.com/ja-jp/download/details.aspx?id=40784)
-‚ªƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚é•K—v‚ª‚ ‚é‚Æv‚¢‚Ü‚·B‚¨‚»‚ç‚­ msvcr120.dll ‚ª
-‚ ‚ê‚Î\•ª‚È‹C‚ª‚·‚é‚Ì‚ÅAŠÈ’P‚Ì‚½‚ß
-
+Visual Studio 2013 ÅƒrhÄ‚é‚½ßAMicrosoft ñ‹Ÿ‚éŠ›uVisual Studio 2013 Ì Visual C++ Ä”Ğ•zÂ”\pbP[Wv](https://www.microsoft.com/ja-jp/download/details.aspx?id=40784)
+CXg[ê‚„é•‹vé‚†vÜ‚Bç‚­ msvcr120.dll 
+ê‚\È‹Cé‚ŒÅAÈ’PÌ‚ßŠ
 - http://dl.dropboxusercontent.com/s/z3t81hxc28p9qlk/msvcr120.dll
 
-‚©‚çƒ_ƒEƒ“ƒ[ƒh‚Å‚«‚é‚æ‚¤‚É‚µ‚Ä‚¨‚«‚Ü‚·B
+çƒŸE[hÅ‚é‚¦É‚Ä‚Ü‚B
 
 Hironobu Yamashita
