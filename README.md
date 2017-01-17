@@ -19,7 +19,7 @@ and some sources are updated along with TeX Live svn
 - ktx/texk/web2c/lib (r42828)
 - ktx/texk/web2c/pdftexdir (r42438)
 - ktx/texk/web2c/ptexdir (r42720)
-- ktx/texk/web2c/uptexdir (r42954)
+- ktx/texk/web2c/uptexdir (r42962)
 - xtx/texk/kpathsea (r42801)
 - xtx/texk/upmendex (r42784)
 - xtx/texk/web2c (r42506)
