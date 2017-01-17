@@ -10,7 +10,7 @@ and some sources are updated along with TeX Live svn
 - ktx/texk/kpathsea (r42801)
 - ktx/texk/dvipdfm-x (r42803)
 - ktx/texk/dvipsk (r42703)
-- ktx/texk/makejvf (r42724)
+- ktx/texk/makejvf (r42961)
 - ktx/texk/mendexk (r42772)
 - ktx/texk/tex4htk (r42110)
 - ktx/texk/web2c (r42506)
