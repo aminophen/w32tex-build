@@ -5,27 +5,6 @@ Current binaries are mostly based on
 
 - w32tex-src.tar.xz (as of 2017-05-14 07:02, r44334)
 
-and some sources are updated along with TeX Live svn
-
-- ktx/texk/kpathsea (r42801)
-- ktx/texk/dvipdfm-x (r42803)
-- ktx/texk/dvipsk (r42703)
-- ktx/texk/makejvf (r42961)
-- ktx/texk/mendexk (r42772)
-- ktx/texk/tex4htk (r42110)
-- ktx/texk/web2c (r42506)
-- ktx/texk/web2c/eptexdir (r42711)
-- ktx/texk/web2c/euptexdir (r42711)
-- ktx/texk/web2c/lib (r42828)
-- ktx/texk/web2c/pdftexdir (r42438)
-- ktx/texk/web2c/ptexdir (r42720)
-- ktx/texk/web2c/uptexdir (r42962)
-- xtx/texk/kpathsea (r42801)
-- xtx/texk/upmendex (r42784)
-- xtx/texk/web2c (r42506)
-- xtx/texk/web2c/lib (r42828)
-- xtx/texk/web2c/xetexdir (r42194)
-
 Also, some missing sources are retrieved from older archives
 
 - w32tex-src.tar.xz (as of 2014-05-22 00:48, r34185)
