@@ -24,12 +24,25 @@ better and stable binaries are also included in W32TeX by Akira Kakuto,
 so there is no reason to choose ones in this repository.
 No warranty.
 
+## Additional Utilities for win32
+
+In addition to TeX Live/W32TeX programs, the following utilities are also
+available from this repository:
+
+- Utilities from dviout (checked aminophen/dviout-util@cf9c3b7)
+  - chkfont.exe: Check font in DVI/TFM/JFM/FONT files
+  - dvispc.exe:  Modify a DVI file to be page-independent in specials, translation between DVI <-> Text
+  - propw.exe:   Generate TeX PL file for Japanese Proportional Fonts
+
 ----
 
 これは、私が Visual Studio 2013 環境でどうにかビルドに成功した win32 の
 TeX 関連バイナリを置いておくための場所です。成功したものしか置いていま
 せんので、角藤先生の W32TeX に比べてファイルが欠けています。
 ただの練習目的ですので、常用しないほうがよいと思います。当然無保証です。
+
+あわせて、dviout の付属ユーティリティの独自改良版も置いてあります。
+これらは dviout の DVI プレビュー機能とは独立に、便利に使えるものです。
 
 もし使ってみたい場合は、W32TeX や TeX Live (win32) の元々の同名ファイル
 をリネームして保管しておき、代わりにこのリポジトリから取得したファイルを
