@@ -5,6 +5,18 @@ Current binaries are mostly based on
 
 - w32tex-src.tar.xz (as of 2017-05-14 07:02, r44334)
 
+and some sources are updated along with TeX Live svn
+
+- ktx/texk/kpathsea/win32 (r44449)
+
+Some binaries are built with additional patches
+
+- ktx/texk/seetexk
+  - Add pTeX support, dvibook -l option (by aminophen 2017-05-26)
+  - Show usage to avoid clash (by ttk 2017-06-11)
+- ktx/texk/dvidvi
+  - Add pTeX support (by aminophen 2017-05-26)
+
 Also, some missing sources are retrieved from older archives
 
 - w32tex-src.tar.xz (as of 2014-05-22 00:48, r34185)
