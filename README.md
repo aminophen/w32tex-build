@@ -7,15 +7,14 @@ Current binaries are mostly based on
 
 and some sources are updated along with TeX Live svn
 
-- ktx/texk/kpathsea/win32 (r44449)
+- ktx/texk/dvidvi (r44638)
+- ktx/texk/kpathsea/win32 (r44560)
+- ktx/texk/seetexk (r44637)
 
 Some binaries are built with additional patches
 
-- ktx/texk/seetexk
-  - Add pTeX support, dvibook -l option (by aminophen 2017-05-26)
-  - Show usage to avoid clash (by ttk 2017-06-11)
-- ktx/texk/dvidvi
-  - Add pTeX support (by aminophen 2017-05-26)
+- ktx/texk/ttfdump
+  - Avoid segmentation fault when requested ttc font is not found (by aminophen 2017-06-23)
 
 Also, some missing sources are retrieved from older archives
 
