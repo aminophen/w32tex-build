@@ -7,14 +7,14 @@ Current binaries are mostly based on
 
 and some sources are updated along with TeX Live svn
 
-- ktx/texk/dvidvi (r44638)
+- ktx/texk/dvidvi (r44675)
 - ktx/texk/kpathsea/win32 (r44560)
-- ktx/texk/seetexk (r44637)
+- ktx/texk/seetexk (r44674)
+- ktx/texk/ttfdump (r44679)
 
 Some binaries are built with additional patches
 
-- ktx/texk/ttfdump
-  - Avoid segmentation fault when requested ttc font is not found (by aminophen 2017-06-23)
+  - (currently unavailable -- aminophen 2017-06-23)
 
 Also, some missing sources are retrieved from older archives
 
