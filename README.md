@@ -8,6 +8,7 @@ Current binaries are mostly based on
 and some sources are updated along with TeX Live svn
 
 - ktx/texk/dvidvi (r44675)
+- ktx/texk/dvipdfm-x (r44681)
 - ktx/texk/kpathsea/win32 (r44560)
 - ktx/texk/seetexk (r44674)
 - ktx/texk/ttfdump (r44679)
