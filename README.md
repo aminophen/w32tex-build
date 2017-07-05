@@ -7,15 +7,17 @@ Current binaries are mostly based on
 
 and some sources are updated along with TeX Live svn
 
-- ktx/texk/dvidvi (r44675)
-- ktx/texk/dvipdfm-x (r44681)
+- ktx/texk/dvidvi (r44693)
+- ktx/texk/dvipdfm-x (r44708)
 - ktx/texk/kpathsea/win32 (r44560)
+- ktx/texk/makejvf (r44734)
 - ktx/texk/seetexk (r44674)
 - ktx/texk/ttfdump (r44679)
 
 Some binaries are built with additional patches
 
-  - (currently unavailable -- aminophen 2017-06-23)
+  - ktx/texk/makejvf
+    - Add `-c` option to support center-aligned punctuations in traditional Chinese (aminophen 2017-07-03)
 
 Also, some missing sources are retrieved from older archives
 
