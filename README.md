@@ -18,6 +18,7 @@ Some binaries are built with additional patches
 
   - ktx/texk/makejvf
     - Add `-c` option to support center-aligned punctuations in traditional Chinese (aminophen 2017-07-03)
+    - Add `-t` option to override default right/down shift (aminophen 2017-07-07)
 
 Also, some missing sources are retrieved from older archives
 
