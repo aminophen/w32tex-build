@@ -44,7 +44,7 @@ No warranty.
 In addition to TeX Live/W32TeX programs, the following utilities are also
 available from this repository:
 
-- Utilities from dviout (checked aminophen/dviout-util@8b7092b)
+- Utilities from dviout (checked aminophen/dviout-util@e45ae9b)
   - chkdvifont.exe: Check font in DVI/TFM/JFM/FONT files
   - dvispc.exe: Modify a DVI file to be page-independent in specials, translation between DVI <-> Text
   - propw.exe: Generate TeX PL file for Japanese Proportional Fonts
