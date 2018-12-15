@@ -3,35 +3,28 @@
 This repository contains binary files of win32 TeX distribution.
 Current binaries are mostly based on
 
-- w32tex-src.tar.xz (as of 2017-05-14 07:02, r44334)
+- w32tex-src.tar.xz (as of 2018-04-03 05:03:03, r47261)
 
 and some sources are updated along with TeX Live svn
 
-- ktx/texk/dvidvi (r44693)
-- ktx/texk/dvipdfm-x (r44708)
-- ktx/texk/kpathsea/win32 (r44560)
-- ktx/texk/makejvf (r44734)
-- ktx/texk/seetexk (r44674)
-- ktx/texk/ttfdump (r44679)
+  - (nothing)
 
 Some binaries are built with additional patches
 
-  - ktx/texk/makejvf
-    - Add `-c` option to support center-aligned punctuations in traditional Chinese (aminophen 2017-07-03)
-    - Add `-t` option to override default right/down shift (aminophen 2017-07-07)
+  - (nothing)
 
 Also, some missing sources are retrieved from older archives
 
 - w32tex-src.tar.xz (as of 2014-05-22 00:48, r34185)
-- w32tex-src.tar.xz (as of 2016-05-13 10:17, r41087)
+- w32tex-src.tar.xz (as of 2017-05-14 07:02, r44344)
 
 some additional notes:
 
-- ktx/utils/bmp2png: bmp2png 1.62
+- [bmp2png]
   - original retrieved from r34185
   - updated along with http://cetus.sakura.ne.jp/softlab/b2p-home/index.html
-- xtx/texk/dvisvgm: dvisvgm 1.15.1
-  - retrieved from r41087 to keep the old version (which can be built on VS2013)
+- [poppler-exe], [sam2p] are not up-to-date!
+  - retrieved from r44334 (TeX Live 2017) and built on VS2013
 
 Only a small subset of binaries are available, since these are the ones
 which I managed to build by myself using Visual Studio 2013. The even
@@ -51,9 +44,10 @@ available from this repository:
 
 ----
 
-これは、私が Visual Studio 2013 環境でどうにかビルドに成功した win32 の
-TeX 関連バイナリを置いておくための場所です。成功したものしか置いていま
-せんので、角藤先生の W32TeX に比べてファイルが欠けています。
+これは、私が Visual Studio 2010/2015 環境でどうにかビルドに成功した
+win32 の TeX 関連バイナリを置いておくための場所です。
+成功したものしか置いていませんので、角藤先生の W32TeX に比べてファイルが
+欠けています。
 ただの練習目的ですので、常用しないほうがよいと思います。当然無保証です。
 
 あわせて、dviout の付属ユーティリティの独自改良版も置いてあります。
@@ -63,13 +57,12 @@ TeX 関連バイナリを置いておくための場所です。成功したも�
 をリネームして保管しておき、代わりにこのリポジトリから取得したファイルを
 置いてください。それ以上の説明はあえて控えます。
 
-Visual Studio 2013 でビルドしているため、Microsoft が提供する
-[「Visual Studio 2013 の Visual C++ 再頒布可能パッケージ」](https://www.microsoft.com/ja-jp/download/details.aspx?id=40784)
-がインストールされている必要があると思います。おそらく msvcr120.dll が
-あれば十分な気がするので、簡単のため
-
-- http://dl.dropboxusercontent.com/s/z3t81hxc28p9qlk/msvcr120.dll
-
-からダウンロードできるようにしておきます。
+多くは Visual Studio 2010 でビルドしていますが、必要なものだけ
+Visual Studio 2015 でビルドしています。
+Microsoft が提供する
+「[Microsoft Visual C++ 2010 再頒布可能パッケージ](https://www.microsoft.com/en-US/download/details.aspx?id=5555)」
+及び
+「[Visual Studio 2015 の Visual C++ 再頒布可能パッケージ](https://www.microsoft.com/en-US/download/details.aspx?id=48145)」
+が必要なものが含まれます。
 
 Hironobu Yamashita
