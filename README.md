@@ -1,6 +1,6 @@
 # w32tex-build
 
-This repository contains binary files of win32 TeX distribution.
+This is a trial build of binares of win32 TeX distribution.
 Current binaries are mostly based on
 
 - w32tex-src.tar.xz (as of 2018-04-03 05:03:03, r47261)
@@ -27,9 +27,9 @@ some additional notes:
   - retrieved from r44334 (TeX Live 2017) and built on VS2013
 
 Only a small subset of binaries are available, since these are the ones
-which I managed to build by myself using Visual Studio 2013. The even
-better and stable binaries are also included in W32TeX by Akira Kakuto,
-so there is no reason to choose ones in this repository.
+which I managed to build by myself using Visual Studio 2010 and 2015.
+The even better and stable binaries are also included in W32TeX
+by Akira Kakuto, so there is no reason to choose ones in this repository.
 No warranty.
 
 ## Additional Utilities for win32
