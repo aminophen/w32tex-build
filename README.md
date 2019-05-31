@@ -3,28 +3,35 @@
 This is a trial build of binares of win32 TeX distribution.
 Current binaries are mostly based on
 
-- w32tex-src.tar.xz (as of 2018-04-03 05:03:03, r47261)
+- w32tex-src.tar.xz (as of 2019-04-08 21:59:11 UTC, r50878)
 
 and some sources are updated along with TeX Live svn
 
-  - (nothing)
+- ktx/texk/dvipdfm-x (r51226)
+- ktx/texk/dvipsk (r50954)
+- ktx/texk/web2c/eptexdir (r51243)
+- ktx/texk/web2c/euptexdir (r51243)
+- ktx/texk/web2c/ptexdir (r51243)
+- ktx/texk/web2c/uptexdir (r51243)
 
 Some binaries are built with additional patches
 
-  - (nothing)
+- (nothing)
 
 Also, some missing sources are retrieved from older archives
 
 - w32tex-src.tar.xz (as of 2014-05-22 00:48, r34185)
 - w32tex-src.tar.xz (as of 2017-05-14 07:02, r44344)
+- w32tex-src.tar.xz (as of 2018-04-03 05:03, r47261)
 
 some additional notes:
 
-- [bmp2png]
-  - original retrieved from r34185
-  - updated along with http://cetus.sakura.ne.jp/softlab/b2p-home/index.html
+- [ps2otfps]
+  - original retrieved from r47261
 - [poppler-exe], [sam2p] are not up-to-date!
   - retrieved from r44334 (TeX Live 2017) and built on VS2013
+- [luatexdir] is not up-to-date!
+  - retrieved from r47261 (TeX Live 2018) and built on VS2015
 
 Only a small subset of binaries are available, since these are the ones
 which I managed to build by myself using Visual Studio 2010 and 2015.
@@ -38,8 +45,6 @@ In addition to TeX Live/W32TeX programs, the following utilities are also
 available from this repository:
 
 - Utilities from dviout (checked aminophen/dviout-util@e45ae9b)
-  - chkdvifont.exe: Check font in DVI/TFM/JFM/FONT files
-  - dvispc.exe: Modify a DVI file to be page-independent in specials, translation between DVI <-> Text
   - propw.exe: Generate TeX PL file for Japanese Proportional Fonts
 
 ----
