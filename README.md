@@ -7,11 +7,12 @@ Current binaries are mostly based on
 
 and some sources are updated along with TeX Live svn
 
-- ktx/texk/dvipdfm-x (r51226)
+- ktx/texk/dvipdfm-x (r52052)
 - ktx/texk/dvipsk (r50954)
-- ktx/texk/web2c/eptexdir (r51243)
-- ktx/texk/web2c/euptexdir (r51243)
-- ktx/texk/web2c/ptexdir (r51243)
+- ktx/texk/ptexenc (r52071)
+- ktx/texk/web2c/eptexdir (r52053)
+- ktx/texk/web2c/euptexdir (r52053)
+- ktx/texk/web2c/ptexdir (r51814)
 - ktx/texk/web2c/uptexdir (r51243)
 
 Some binaries are built with additional patches
