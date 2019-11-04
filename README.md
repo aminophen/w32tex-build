@@ -10,10 +10,10 @@ and some sources are updated along with TeX Live svn
 - ktx/texk/dvipdfm-x (r52052)
 - ktx/texk/dvipsk (r50954)
 - ktx/texk/ptexenc (r52071)
-- ktx/texk/web2c/eptexdir (r52053)
-- ktx/texk/web2c/euptexdir (r52053)
-- ktx/texk/web2c/ptexdir (r51814)
-- ktx/texk/web2c/uptexdir (r51243)
+- ktx/texk/web2c/eptexdir (r52519)
+- ktx/texk/web2c/euptexdir (r52519)
+- ktx/texk/web2c/ptexdir (r52519)
+- ktx/texk/web2c/uptexdir (r52519)
 
 Some binaries are built with additional patches
 
