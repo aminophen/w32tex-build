@@ -3,7 +3,7 @@
 This is a trial build of binares of win32 TeX distribution.
 Current binaries are mostly based on
 
-- w32tex-src.tar.xz (as of 2020-03-26 23:20:24 2020 UTC, r54576)
+- w32tex-src.tar.xz (as of 2021-03-23 23:15:54, r58680)
 
 and some sources are updated along with TeX Live svn
 
@@ -19,11 +19,10 @@ Also, some missing sources are retrieved from older archives
 - w32tex-src.tar.xz (as of 2017-05-14 07:02, r44344)
 - w32tex-src.tar.xz (as of 2018-04-03 05:03, r47261)
 - w32tex-src.tar.xz (as of 2019-04-08 21:59, r50878)
+- w32tex-src.tar.xz (as of 2020-03-26 23:20, r54576)
 
 some additional notes:
 
-- [ps2otfps]
-  - original retrieved from r47261
 - [poppler-exe], [sam2p] are not up-to-date!
   - retrieved from r44334 (TeX Live 2017) and built on VS2013
 
