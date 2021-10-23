@@ -66,7 +66,7 @@
 
   Some sources are missing:
 
-  * Fetch missing "regex" directory from w32tex-src.tar.xz as of 2019, and place it into `ktx\texk\chktex`.
+  * Fetch missing "regex" directory from `w32tex-src\ktx\web2c\pdftexdir`, and place it into `ktx\texk\chktex`.
 
   * [optional] Fetch missing "VFlib2-2.25.6" directory from w32tex-src.tar.xz as of 2014, and place it into `ktx\texk`.
 
